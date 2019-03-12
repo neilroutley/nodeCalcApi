@@ -1,0 +1,17 @@
+{
+  "name": "calcapi",
+  "version": "1.0.0",
+  "description": "calcapi is an api that takes an expression and returns the calculation result",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil Routley",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "express": "^4.16.4",
+    "mathjs": "^5.4.2"
+  }
+}
